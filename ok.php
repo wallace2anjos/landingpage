@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content />
+        <meta name="author" content />
+        <title>Vencendo Gigantes da Vida em 12 dias</title>
+        <link href="css/styles.css" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.png" />
+        <script data-search-pseudo-elements defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.min.js" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.24.1/feather.min.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="alert alert-primary m-0" role="alert">
+          Sua mensagem foi enviada com sucesso!
+        </div>
+        <div id="layoutDefault">
+            <div id="layoutDefault_content">
+                <main>
+                    <header class="page-header page-header-dark bg-img-repeat" style='background-image: url("https://i.ibb.co/wJqXm2R/bg.jpg"); background-size: cover; height: auto; min-height: 100vh;'>
+                        <div class="page-header-content">
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-lg-6">
+                                        <div class="badge badge-marketing badge-pill badge-secondary-soft text-secondary mb-3">De 18 a 30 de maio!</div>
+                                        <h1 class="page-header-title">Olá Amado (a), que bom ter você por aqui. Posso contar contigo nessa jornada inédita de lives: “Vencendo Gigantes da Vida em 12 dias”?</h1>
+                                        <h2 class="text-white">Eu tenho um presente para você que está me acompanhando.</h2>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="card rounded-lg text-dark">
+                                            <div class="card-header py-4">Ao final do ciclo você que preencher esse cadastro vai receber no seu e-mail um e-book completo com as principais lições compartilhadas por mim.</div>
+                                            <div class="card-body">
+                                                <form name="form" method="post" action="envia.php">
+                                                    <div class="form-row">
+                                                        <div class="form-group col-md-6">
+                                                            <label for="nome" class="small text-gray-600">Nome:</label>
+                                                            <input class="form-control rounded-pill" name="nome" type="text" id="nome" />
+                                                        </div>
+                                                        <div class="form-group col-md-6">
+                                                            <label class="small text-gray-600" for="telefone">Telefone:</label>
+                                                            <input class="form-control rounded-pill" name="telefone" id="telefone" type="text"/>
+                                                        </div>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="small text-gray-600" for="email">E-mail:</label>
+                                                        <input class="form-control rounded-pill" name="email" type="email" id="email"/>
+                                                    </div>
+                                                    <input class="btn btn-primary btn-marketing btn-block rounded-pill mt-4" name="Submit" value="Quero receber meu E-book" type="submit"></input>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row align-items-center">
+                                    <div class="col-lg-12">
+                                        <br>
+                                        <hr>
+                                        <p class="page-header-text pt-4">De 18 a 30 de maio, de segunda a sábado às 23h, estarei ao vivo pelo meu perfil no instagram (@josuevalandrojr) para falar sobre 12 gigantes que estão dentro de você ligados a conflitos humanos que estão roubando a sua fé, felicidade e plenitude!
+                                            Vou falar sobre: raiva, solidão, morte, medo, culpa, ansiedade, ressentimento, tentação, desânimo, inveja, morte e depressão. Assuntos tão relevantes na atualidade, não é mesmo? Todos nós conhecemos alguém ou precisamos ser curados e tratados em algumas dessas áreas. Divulgue para todo mundo!
+                                        </p>
+                                        <p class="page-header-text pb-4">
+                                            Te espero! Deus te abençoe. <br>
+                                            Pr. Josué Valandro Jr. <br>
+                                            
+                                        </p>
+                                            <a class="btn btn-primary m-2" href="https://youtu.be/0duOz8BdKSU" target="blank" role="button">Assista</a>
+                                            ao convite que tenho para você  <br>
+                                            <a class="btn btn-primary m-2" href="https://linktr.ee/josuevalandrojr" target="blank" role="button">Inscreva-se</a>
+                                            agora no meu canal do Telegram e nas minhas redes sociais
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                </main>
+            </div>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+        <script src="js/scripts.js"></script>
+
+    </body>
+
+<!-- Mirrored from themes.startbootstrap.com/sb-ui-kit-pro/landing-lead-capture.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Mar 2020 18:16:24 GMT -->
+</html>
